@@ -9,8 +9,8 @@ Simple TCP/IP stack
 ### My example (My destination is a virtual machine with IP: 192.168.254.136):
 1. Ran `make`
 2. Ran `sudo ./tcpip_stack 10.110.225.227 192.168.254.136 54321 80`
-   - This outputs the following:
-     ![alt text]()
+   - This outputs the following:  
+     ![alt text](https://github.com/AriT000/TCP-IP-Stack/blob/main/image2.png)
 3. We observe the packet being sent with Wireshark
-   - Wireshark packet:
-     ![alt test]()
+   - Wireshark packet:  
+     ![alt test](https://github.com/AriT000/TCP-IP-Stack/blob/main/image1.png)
